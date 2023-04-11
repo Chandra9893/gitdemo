@@ -1,0 +1,167 @@
+x path for price of samsung mobile of galaxy m04 for 9499
+((//span[contains(text(),'Samsung Galaxy M04 ')])[3]/../../../..//div[3]//span)[5]
+
+x path for price of samsung mobile of galaxy m13 for 10,999
+(((//span[contains(text(),'Samsung Galaxy M13 ')])[3]/../../../following-sibling::div)[2]//span)[1]
+
+x path for meesho comfy graceful men tshirts 296
+(//p[contains(text(),'Comfy Graceful ')]/following::h5)[1]     
+
+
+Samsung Galaxy S23 5G (Green, 8GB, 256GB Storage)
+₹79,999 
+((//span[text()='Samsung Galaxy S23 5G (Green, 8GB, 256GB Storage)'])[1]/../../../following-sibling::div/div[1]//span)[5]
+
+
+Samsung Galaxy S23 Ultra 5G (Green, 12GB, 256GB Storage)
+₹1,24,999
+((//span[text()= 'Samsung Galaxy S23 Ultra 5G (Green, 12GB, 256GB Storage)'])[2]/../../../following-sibling::div//span)[5]
+
+
+9 feb 2023
+[1] Amazon Apple Watch Series 7 (GPS + Cellular, 41mm) - Midnight Aluminium Case with Midnight Sport Band - Regular
+(((//span[@class= 'a-size-medium a-color-base a-text-normal'])[1]/../../../following-sibling::div)[2]//span)[5]
+
+[2] Snapdeal Veirdo - Green Cotton Regular Fit Men's T-Shirt ( Pack of 1 )
+(//div[@class = 'product_name'])[1]/following-sibling::div[2]//span[2]
+
+[3] Snapdeal ZunVolt - 500W Mixer Grinder 3 Jars  rs1290
+(//span[@id='display-price-625801654300']/../../..//p)[1]
+
+[4] Snapdeal FORCE 10 By Liberty Lifestyle Black Casual Shoes rs.1199
+((//p[@class = 'product-title '])[1]/..//span)[2]
+
+
+10feb 2023  flipcart
+
+[1] flipcart SONY Alpha ILCE-6400L APS-C Mirrorless Camera with 16-50 mm Power Zoom Lens Featuring Eye AF and 4K movie recording  (Black)
+((//div[@class='_4rR01T'])[1]/../following-sibling::div//div)[3]
+
+[2]flipcart Urban Terrain Drogon Kids Cycle for 4-6 Years 16 T Hybrid Cycle/City Bike  (Single Speed, Yellow)  rs 4440
+(//span[@class= 'B_NuCI']/../../following-sibling::div[3]//div)[3]
+
+[3] Men Solid Polo Neck White T-Shirt
+(//span[@class ='B_NuCI']/../../following-sibling::div[2]//div)[3]
+
+[4]Flipkart SmartBuy 210 cm (7 ft) Polyester Semi Transparent Door Curtain (Pack Of 2)  (Printed, Blue)
+     from price to product name 
+(//div[@class = '_30jeq3 _16Jk6d']/../../../preceding-sibling::div//span)[1]
+
+[5]HP DeskJet 2331 Multi-function Color Inkjet Printer  (White, Purple, Ink Cartridge)
+            from price to product name 
+(//div[@class = '_30jeq3 _16Jk6d']/../../../preceding-sibling::div//span)[1]
+
+[6]MOTOROLA G32 (Mineral Gray, 64 GB)  (4 GB RAM)   10499
+((//div[@class='_30jeq3 _1_WHN1'])[1]/../../../preceding-sibling::div//div)[1]
+
+[7]Kadio Analog 24.5 cm X 24.5 cm Wall Clock  (Maroon, With Glass, Standard)
+            from price to product name
+(//div[@class= '_30jeq3 _16Jk6d']/../../../preceding-sibling::div//span)[1]
+
+[8]Men Solid Henley Neck Maroon T-Shirt 269
+(//span[@class='B_NuCI']/../../following-sibling::div[2]//div//div)[2]
+
+[9]Men Solid Ankle Length  (Pack of 5)
+Special price
+₹179
+(//span[@class ='B_NuCI']/../../following-sibling::div[2]//div)[3]
+
+[10] Women Pink Flats Sandal
+₹399
+//div[@class='_30jeq3 _16Jk6d']/../../../preceding-sibling::div//span[2]
+
+11 feb with text and contains Meesho
+
+[1] cotton saree 491
+     //span[text()='COTTON SAREE']/following::h4
+
+[2] printed kurti  264
+    //span[text()='printed kurti']/following::h4
+
+[3] CavinKare Bacto-V Surface Sanitizer & Disinfectant - 180 ML (Pack of 3)
+    (//h4[text()='345']/../..//span)[1]
+    //span[contains(text(),'CavinKare Bacto-V Surface Sanitizer')]
+   
+[4]Fun Stuffed Animals & Mickey Mouse 0-2 Years Stuffed Toys (single)
+          ₹423
+   (//h4[text()='423']/../..//span)[1]
+
+[5]Trendy Women Multicolor Leather Analog Watch
+          ₹203
+   //span[text()='Trendy Women Multicolor Leather Analog Watch']/following::h4
+    //span[contains(text(),'Trendy Women Multicolor ')]/following::h4
+
+[6]Styles Trendy Men Socks pack of 6 pairs
+         ₹130
+   //span[contains(text(),'Styles Trendy Men Socks ')]/following::h4
+
+[7]MODULAR DRAWER SYSTEM MULTI PURPOSE STORAGE BOX, BASKET AND BIN, SIZE 5XL - Multicolor
+             ₹829
+   //span[contains(text(),'MODULAR DRAWER SYSTEM MULTI PURP')]/following::h4
+ 
+      from "Add to cart" to "Buy Now"
+   //span[contains(text(),'Add to')]/../../following-sibling::button//span
+
+[8]Hypestater - Digital slate with pen for kids Learning magic
+ pad E-writing pads notepad electronics slate digital paperless 
+graphic tablets LCD writing board gifts for boys and girls home school 
+online class use (8.5 Inch) 8 x 8 inch Graphics Tablet (Multicolor) Writing Pads
+₹123
+
+//span[text()='Hypestater - Digital slate with
+ pen for kids Learning magic pad E-writing pads
+ notepad electronics slate digital paperless graphic
+ tablets LCD writing board gifts for boys and girls home
+ school online class use (8.5 Inch) 8 x 8 inch Graphics 
+Tablet (Multicolor) Writing Pads']/following::h4
+or
+//span[contains(text(),'Hypestater - Digital ')]/following-sibling::div//h4
+or
+//span[contains(text(),'Hypestater - Digital ')]//following::h4
+
+[9]
+//span[@class='sc-dkrFOg kTIwTj']/following::h4
+
+
+[10]AQUASLERI 4 Pcs Of Pre-Filter
+ PP Spun Candel 10inch For Water Purifier
+ Wound Filter Cartridge +1 Spanner Single 
+Sided Spanner for 10" Pre Filter bowl Wound Filter Cartridge
+₹303
+
+(//p[contains(text(),'Unique Water Purifiers & Accessories')]/following::h5)[1]
+
+13 feb mixed {airindia.in}
+
+[1] from search fights to manage booking
+    //a[@class='nav-link active']/../following::a
+    OR
+    (//a[@class='nav-link active']/../following-sibling::li//a)[1]
+
+[2]from economy to concessionary type
+    //select[@id='_classType1']/../preceding-sibling::div//select
+
+[3]from infant to adult
+    ((//select[@class='form-control'])[3]/../preceding-sibling::div)[1]//select  
+
+[4]from search flights to multi city
+    (//a[@class='nav-link active']/../../following-sibling::div//a)[1]
+
+[5]for latest news
+    //h5[text()='Latest News ']      //imp
+
+[6] from latest news to contact
+    (//h5[text()='Latest News ']/../following-sibling::div)[3]//h5
+
+[7]from "about air india" to "Carriage of pets"
+    ((//a[@class='nav-link active'])[2]/../../../following-sibling::div[3]//a)[5]
+
+[8]from "FAQ" to "Citizen Charter"
+    ((//a[@class='nav-link active'])[20]/../../../preceding-sibling::div//a)[2]       //imp
+   
+
+
+((//span[@class="a-price-whole"])[1]/../../../preceding-sibling::div[3]/following-sibling::div[2]//div)[3]
+
+
+babu mension,room no. 405,Sanjeev Reddy nagar, Hyderabad Telangana     18008969999                                                      
